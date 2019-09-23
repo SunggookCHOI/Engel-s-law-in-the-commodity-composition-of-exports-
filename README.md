@@ -6,7 +6,7 @@ Different shares of distinct commodity sectors in production, trade, and consump
 
 <h2>Raw data</h2><br>
 
-1. rgdp_DSL.ver1.txt contains selected columns of the table in  pwt_v61.asc, included in the supplementary material of Ref. [35].
+<b>1. rgdp_DSL.ver1.txt contains selected columns of the table in  pwt_v61.asc, included in the supplementary material of Ref. [35].</b>
 
 col1: country code <br>
 col2: country name (abbr.)<br>
@@ -16,7 +16,7 @@ col5: ratio of GDP in the constant yr-1996 US dollars to that in the current US 
   needed for compensating inflation<br>
 
 
-2. Export_from_wtf.txt contains selected data from Ref. [34].<br>
+<b>2. Export_from_wtf.txt contains selected data from Ref. [34].</b><br>
 
 col1: year<br>
 col2: country code <br>
