@@ -23,3 +23,15 @@ col2: country code <br>
 col3: country name <br>
 col4: product code(SITC-4)<br>
 col5: trade amounts
+
+<h2>Product Category</h2>
+0: Food <br>
+1: Beverage <br>
+2: Crude materials<br>
+3: Mineral fuels<br>
+4: Animal oil<br>
+5: Chemicals<br>
+6: Manufactured goods<br>
+7: Machinery <br>
+8: Manufactured articles<br>
+9: ETC <br>
