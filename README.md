@@ -1,4 +1,4 @@
-# Engel-s-law-in-the-commodity-composition-of-exports-
+# Engel's law in the commodity composition of exports
 Source code for investigating the international trade. (Data preprocessing and drawing figures)<br>
 This article was published on Scientific Reports ; https://www.nature.com/articles/s41598-019-52281-8
 
